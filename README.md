@@ -37,8 +37,7 @@ Make sure you have Python 3.x installed on your system.
 
 ---
 
-🌟 Contributing
-This is a personal learning repository, but suggestions and improvements are always welcome! Please feel free to raise issues or submit pull requests.
+
 
 
 
