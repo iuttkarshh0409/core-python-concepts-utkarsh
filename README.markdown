@@ -91,6 +91,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 For questions or suggestions, feel free to reach out:
 - 🖥️ GitHub: [iuttkarshh0409](https://github.com/iuttkarshh0409)
-- ✉️ Email: [ddubeyutkarsh101@gmail.com] (update with your actual email)
+- ✉️ Email: [dubeyutkarsh101@gmail.com] 
 
 Thank you for exploring **Python Core Utkarsh**! Happy coding! 🎉
