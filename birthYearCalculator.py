@@ -1,6 +1,0 @@
-name = input("Enter your name: ")
-age = input("Enter your age: ")
-birthYear = 2025-int(age)
-print("Your name is " + name)
-print("Your age is " + str(age))
-print("Your birth year is " + str(birthYear))
